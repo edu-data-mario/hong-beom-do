@@ -1,0 +1,15 @@
+[project]
+name = "hong-beom-do"
+version = "0.1.0"
+description = "Hong Beom-do was a Korean independence activist who led the Korean Northern Army against the Japanese during the Japanese occupation of Korea."
+authors = [
+    {name = "dmario24", email = "data.mario24@gmail.com"},
+]
+dependencies = []
+requires-python = ">=3.7"
+readme = "README.md"
+license = {text = "MIT"}
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
