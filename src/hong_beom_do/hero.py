@@ -1,21 +1,5 @@
-# hong-beom-do
-
-- Hong Beom-do was a Korean independence activist who led the Korean Northern Army against the Japanese during the Japanese occupation of Korea.
-
-![image](https://github.com/edu-data-mario/hong-beom-do/assets/134017660/18c04025-88a2-4c5b-a957-a9864b7ae8af)
-
-# USE
-1. pip install hong-beom-do
-
-2. import & call
-```python
-python
-Python 3.7.17 (default, Jun 15 2023, 23:50:53)
-[Clang 14.0.0 (clang-1400.0.29.202)] on darwin
-Type "help", "copyright", "credits" or "license" for more information.
->>> from hong_beom_do.hero import pic
->>> pic()
-
+def pic():
+    art = """
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!7!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!??!!!!!!!!!!!!!!!!!!5J!!!!!
@@ -47,6 +31,5 @@ P55555555PPGPPPPPPG##&&&#BB##G##BBBB##GP55YYYYY5PP
 JPYYYYYYYYY5GGPGGPP#####BBB##GBBBBBB#B5YYYYYYYY5GY
 !J5YYYYYYYYY5PPPPPPBP5PGP5555PPPPPGGGYYYYYYYYY5PG?
 !!J5YYYYYYYYYY5PPPPGP55P5YYYYY555PP5YYYYYYYYYYPGY!
-
->>>
-```
+    """
+    print(art)
