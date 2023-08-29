@@ -50,3 +50,32 @@ JPYYYYYYYYY5GGPGGPP#####BBB##GBBBBBB#B5YYYYYYYY5GY
 
 >>>
 ```
+
+
+# Hong Beom-do, a Korean independence activist
+
+**Brief summary**
+
+Hong Beom-do (1868-1943) was a Korean independence activist and general. He led the Korean Northern Army during the Japanese occupation of Korea and won a decisive victory at the Battle of Fengwudong in 1920. He is considered a national hero in South Korea.
+
+**Detailed summary**
+
+Hong Beom-do led the Korean Northern Army to a decisive victory over the Japanese at the Battle of Fengwudong on June 6, 1920. The battle was fought in the Fengwudong Valley in Manchuria, China.
+
+The Korean army, which was led by Hong Beom-do, consisted of about 700 soldiers. The Japanese army, which was led by Lieutenant Colonel Yazawa Saburo, consisted of about 2,000 soldiers.
+
+The Korean army won the battle through a combination of factors, including:
+
+* Strategic planning: Hong Beom-do carefully planned the battle, choosing the time and place to attack.
+* Surprise: The Korean army ambushed the Japanese army, catching them off guard.
+* Dedication: The Korean soldiers fought bravely and were willing to sacrifice their lives for their country.
+
+The victory at the Battle of Fengwudong was a major turning point in the Korean independence movement. It boosted morale among the Korean people and helped to raise awareness of the Korean cause around the world.
+
+## Battle of Fengwudong
+
+The battle began when the Korean army ambushed the Japanese army at dawn. The Korean soldiers used their superior knowledge of the terrain to their advantage, and they were able to inflict heavy casualties on the Japanese army.
+
+The Japanese army tried to regroup and counterattack, but the Korean army was able to hold them off. The battle lasted for several hours, and it ended with the Japanese army in full retreat.
+
+The victory at the Battle of Fengwudong was a major blow to Japanese morale. It showed that the Korean people were not going to give up their fight for independence without a fight.
