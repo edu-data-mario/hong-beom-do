@@ -1,6 +1,6 @@
 [project]
 name = "hong-beom-do"
-version = "0.2.0"
+version = "0.2.1"
 description = "Hong Beom-do was a Korean independence activist who led the Korean Northern Army against the Japanese during the Japanese occupation of Korea."
 authors = [
     {name = "dmario24", email = "data.mario24@gmail.com"},
