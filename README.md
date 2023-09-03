@@ -1,6 +1,6 @@
 # hong-beom-do
 
-- Hong Beom-do was a Korean independence activist who led the Korean Northern Army against the Japanese during the Japanese occupation of Korea.
+- Hong Beom-do was a Korean independence activist who led the Korean independence Army against the Japanese during the Japanese occupation of Korea.
 
 ![image](https://github.com/edu-data-mario/hong-beom-do/assets/134017660/18c04025-88a2-4c5b-a957-a9864b7ae8af)
 
@@ -56,11 +56,11 @@ JPYYYYYYYYY5GGPGGPP#####BBB##GBBBBBB#B5YYYYYYYY5GY
 
 **Brief summary**
 
-Hong Beom-do (1868-1943) was a Korean independence activist and general. He led the Korean Northern Army during the Japanese occupation of Korea and won a decisive victory at the Battle of Fengwudong in 1920. He is considered a national hero in South Korea.
+Hong Beom-do (1868-1943) was a Korean independence activist and general. He led the Korean independence Army during the Japanese occupation of Korea and won a decisive victory at the Battle of Fengwudong in 1920. He is considered a national hero in South Korea.
 
 **Detailed summary**
 
-Hong Beom-do led the Korean Northern Army to a decisive victory over the Japanese at the Battle of Fengwudong on June 6, 1920. The battle was fought in the Fengwudong Valley in Manchuria, China.
+Hong Beom-do led the Korean independence Army to a decisive victory over the Japanese at the Battle of Fengwudong on June 6, 1920. The battle was fought in the Fengwudong Valley in Manchuria, China.
 
 The Korean army, which was led by Hong Beom-do, consisted of about 700 soldiers. The Japanese army, which was led by Lieutenant Colonel Yazawa Saburo, consisted of about 2,000 soldiers.
 
@@ -79,3 +79,11 @@ The battle began when the Korean army ambushed the Japanese army at dawn. The Ko
 The Japanese army tried to regroup and counterattack, but the Korean army was able to hold them off. The battle lasted for several hours, and it ended with the Japanese army in full retreat.
 
 The victory at the Battle of Fengwudong was a major blow to Japanese morale. It showed that the Korean people were not going to give up their fight for independence without a fight.
+
+
+## Return of Independence Hero in 100 Years
+
+- The return of General Hong Beom-do, covered by six Korean Air Force fighter jets! From the thousandth of the remains of President Moon Jae In to the rest of the remains...A special way back in 78 years
+- [https://www.youtube.com/watch?v=Op8Z536xTpk](https://www.youtube.com/watch?v=Op8Z536xTpk)
+[![Watch the video](https://blog.kakaocdn.net/dn/c5uiAl/btrcB2FKJ3L/AzbtWvkWiXqK9tQEL62szK/img.jpg)](https://youtu.be/Op8Z536xTpk?si=SIjMxW8RHWHScrWr)
+
