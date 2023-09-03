@@ -1,6 +1,6 @@
 # hong-beom-do
 
-- Hong Beom-do was a Korean independence activist who led the Korean Northern Army against the Japanese during the Japanese occupation of Korea.
+- Hong Beom-do was a Korean independence activist who led the Korean independence Army against the Japanese during the Japanese occupation of Korea.
 
 ![image](https://github.com/edu-data-mario/hong-beom-do/assets/134017660/18c04025-88a2-4c5b-a957-a9864b7ae8af)
 
@@ -56,11 +56,11 @@ JPYYYYYYYYY5GGPGGPP#####BBB##GBBBBBB#B5YYYYYYYY5GY
 
 **Brief summary**
 
-Hong Beom-do (1868-1943) was a Korean independence activist and general. He led the Korean Northern Army during the Japanese occupation of Korea and won a decisive victory at the Battle of Fengwudong in 1920. He is considered a national hero in South Korea.
+Hong Beom-do (1868-1943) was a Korean independence activist and general. He led the Korean independence Army during the Japanese occupation of Korea and won a decisive victory at the Battle of Fengwudong in 1920. He is considered a national hero in South Korea.
 
 **Detailed summary**
 
-Hong Beom-do led the Korean Northern Army to a decisive victory over the Japanese at the Battle of Fengwudong on June 6, 1920. The battle was fought in the Fengwudong Valley in Manchuria, China.
+Hong Beom-do led the Korean independence Army to a decisive victory over the Japanese at the Battle of Fengwudong on June 6, 1920. The battle was fought in the Fengwudong Valley in Manchuria, China.
 
 The Korean army, which was led by Hong Beom-do, consisted of about 700 soldiers. The Japanese army, which was led by Lieutenant Colonel Yazawa Saburo, consisted of about 2,000 soldiers.
 
