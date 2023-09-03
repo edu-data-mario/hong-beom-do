@@ -79,3 +79,11 @@ The battle began when the Korean army ambushed the Japanese army at dawn. The Ko
 The Japanese army tried to regroup and counterattack, but the Korean army was able to hold them off. The battle lasted for several hours, and it ended with the Japanese army in full retreat.
 
 The victory at the Battle of Fengwudong was a major blow to Japanese morale. It showed that the Korean people were not going to give up their fight for independence without a fight.
+
+
+## Return of Independence Hero in 100 Years
+
+- The return of General Hong Beom-do, covered by six Korean Air Force fighter jets! From the thousandth of the remains of President Moon Jae In to the rest of the remains...A special way back in 78 years
+- [https://www.youtube.com/watch?v=Op8Z536xTpk](https://www.youtube.com/watch?v=Op8Z536xTpk)
+[![Watch the video](https://blog.kakaocdn.net/dn/c5uiAl/btrcB2FKJ3L/AzbtWvkWiXqK9tQEL62szK/img.jpg)](https://youtu.be/Op8Z536xTpk?si=SIjMxW8RHWHScrWr)
+
